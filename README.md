@@ -1,8 +1,9 @@
-### Olá! Eu sou a Gabi 👋
+### Olá! Eu sou a Gabi Gurgel 👋
 
 
 - 🔭 Estudante de programação.
 - 🌱 3/8 ciencia da computação...
+
 - 💬 contate-me no email: gabigurgeluninorte@gmail.com
 - 🔥 apaixonada em criar soluções através da tecnologia
 
