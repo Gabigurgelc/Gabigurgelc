@@ -1,10 +1,10 @@
 ### Olá! Eu sou a Gabi 👋
 
 
-- 🔭 EStudando front-end e Back-end.
-- 🌱 Estudando linguagens de programação ...
+- 🔭 Estudante de programação.
+- 🌱 3/8 ciencia da computação...
 - 💬 contate-me no email: gabigurgeluninorte@gmail.com
-- 🔥 DEEP
+- 🔥 apaixonada em criar soluções através da tecnologia
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhabiGurgel&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhabiGurgel&hide_progress=true&theme=dracula)](https://github.com/GhabiGurgel/github-readme-stats)
