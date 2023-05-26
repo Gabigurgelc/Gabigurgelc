@@ -8,7 +8,7 @@
 - 🔥 apaixonada em criar soluções através da tecnologia
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabigurgelc&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= Gabigurgelc&hide_progress=true&theme=dracula)](https://github.com/Gabigurgelc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabigurgelc&hide_progress=true&theme=dracula)](https://github.com/Gabigurgelc/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
