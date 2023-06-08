@@ -21,7 +21,7 @@ Gosto de ajudar pessoas em vários comunidades de tecnologia, gosto de caminhar 
 <hr />
 Meus interesses pessoais:
 
-<img align="right" alt="GIF" src="https://github.com/Gabigurgelc/Gabigurgelc/assets/115039314/e927af00-34c3-4719-baaa-4efe981d5c01" width="400px" />
+<img align="right" alt="GIF" src="https://github.com/Gabigurgelc/Gabigurgelc/assets/115039314/05759a2d-bccd-46a3-9fd4-0a5478169630" width="400px" />
 
 👩‍💻 Estudos que faço com frequência:
 
@@ -40,14 +40,24 @@ NestJS
 👾 Meus hobbies são:
 
 Estudar sobre segurança e IoT;
+<br>
 pentest;
+<br>
 sql inject;
+<br>
 Tocar Guitarra | Contra-baixo ( tô aprendendo);
+<br>
 Ler livros;
+<br>
 Jogar League of Legends;
+<br>
 Jogar Valorant;
+<br>
 Jogar Minecraft;
+<br>
 Jogar Terraria;
+<br>
+
 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 
 📫 Se quiser pode enviar um email para gabigurgeluninorte@gmail.com.
