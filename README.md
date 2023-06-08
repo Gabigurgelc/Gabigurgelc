@@ -65,10 +65,10 @@ Jogar Terraria;
 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo;
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabigurgelc&layout=compact&theme=graywhite&title_color=268bd2" alt="Gabi Gurgelc" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabigurgelc&layout=compact&theme=synthwave" alt="Gabi Gurgelc" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabigurgelc&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Gabi Gurgelc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabigurgelc&count_private=true&show_icons=true&theme=synthwave" alt="Gabi Gurgelc" />
 </p>
 Linguagens e ferramentas:
 
