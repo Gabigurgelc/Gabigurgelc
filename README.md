@@ -6,7 +6,7 @@
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
-  <b>Faaallaaa Makers!</b>
+  <b>FALA PRA MIM!</b>
 </p>
 <a href="https://www.instagram.com/gabigurgelc/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
@@ -18,54 +18,23 @@ Me chamo <b> Gabi Gurgelc</b>.
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Faallaa Maker, meu nome é Gabi Gurgelc, tenho 28 anos, mas a carinha é de 20 💅.  😅<br />
-Sou Engenheira da Computação, trabalho com Segurança da Informação na @Accenture </b>. <br/>
-</p>
-Sou pós-graduanda em IoT, Ethical Hacking e Cyber Security.
-<br/>
-Faço parte de comunidades da área de segurança da informação e cultura maker.
-<a href="https://www.linkedin.com/in/gabigurgelc/" target="_blank">
+Faallaa!!!! Meu nome é Gabi Gurgel, tenho 19 anos<br />
+Sou graduanda em Ciência da Computação</b>. <br/>
+<a href="https://www.linkedin.com/in/dev-gabi/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <br>
-Sou palestrante em vários eventos de tecnologia, ando de longboarding e estou aprendendo a tocar guitarra e contra-baixo nas horas vagas
+Gosto de ajudar pessoas em vários comunidades de tecnologia, gosto de caminhar e estou aprendendo a tocar guitarra e contra-baixo nas horas vagas
 <p align="left" >
-Produzo conteúdos de tecnologia para as plataformas:
-</p>
-<p align="left" >
-<ul>
-  <li><a href="https://youtube.com/gabigurgelc/"> Youtube </a></li>
-  <li><a href="https://instagram.com/gabigurgelc/">Instagram </a></li>
-</ul>
-</p>
-<p align="left" >
-🚀 Também já palestrei em eventos como:
-  <ul>
-  <li> Arduino Day </li>
-  <li> LatinoWare </li>
-  <li> Portal Embarcados </li>
-  <li> Programador real </li>
-  <li> Roadsec </li>
-  </ul>
+🚀 Fui Voluntária e professora de informatica na pequena cidade em que eu moreI
 </p>
 </p>
 <hr />
 Meus interesses pessoais:
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
-👩‍💻 Experiências adquiridas trabalhando na @Accenture com Segurança da informação:
 
-AppSec
-
-Desenvolvimento seguro
-
-Produção de relatórios Técnicos
-
-Pentest
-
-Forense
-
-👩‍💻 Experiências adquiridas trabalhando na @KaBuM! como dev Full Stack, utilizando as stacks:
+👩‍💻 Estudos que faço com frequência:
 
 Perl
 
@@ -82,17 +51,19 @@ NestJS
 👾 Meus hobbies são:
 
 Estudar sobre segurança e IoT;
-Andar de Longboard;
-Massoterapia
+pentest;
+sql inject;
 Tocar Guitarra | Contra-baixo ( tô aprendendo);
-Gravar conteúdos;
 Ler livros;
 Jogar League of Legends;
+Jogar Valorant;
+Jogar Minecraft;
+Jogar Terraria;
 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 
-📫 Se quiser pode enviar um email para contato@gabigurgelc.com.
+📫 Se quiser pode enviar um email para gabigurgeluninorte@gmail.com.
 
-💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo;
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabigurgelc&layout=compact&theme=graywhite&title_color=268bd2" alt="Gabi Gurgelc" />
@@ -124,7 +95,6 @@ Linguagens e ferramentas:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
 <img src="https://github.com/dnmfarrell/Perl-Icons/blob/master/Icons/Perl_Onion_Color.svg" alt="perl" width="40" height="40" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabigurgelc" alt="Gabi Gurgelc" /> </p>
