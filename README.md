@@ -21,7 +21,7 @@ Gosto de ajudar pessoas em vários comunidades de tecnologia, gosto de caminhar 
 <hr />
 Meus interesses pessoais:
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
+<img align="right" alt="GIF" src="https://github.com/Gabigurgelc/Gabigurgelc/assets/115039314/e927af00-34c3-4719-baaa-4efe981d5c01" width="400px" />
 
 👩‍💻 Estudos que faço com frequência:
 
