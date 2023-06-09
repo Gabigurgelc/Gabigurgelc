@@ -15,7 +15,7 @@ Sou graduanda em Ciência da Computação</b>. <br/>
 <br>
 Gosto de ajudar pessoas em vários comunidades de tecnologia, gosto de caminhar e estou aprendendo a tocar guitarra e contra-baixo nas horas vagas
 <p align="left" >
-🚀 Fui Voluntária e professora de informatica na pequena cidade em que eu moreI
+🚀 Fui Voluntária e professora de informatica na pequena cidade em que eu morei
 </p>
 </p>
 <hr />
