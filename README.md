@@ -10,7 +10,7 @@
 Me chamo <b> Gabi Gurgelc</b>.
 </p>
 <p align="left" >
-Eai Amigo! Meu nome é Gabi Gurgel, tenho 19 anos<br />
+Eai! Meu nome é Gabi Gurgel, tenho 19 anos<br />
 Sou graduanda em Ciência da Computação</b>. <br/>
 <br>
 Gosto de ajudar pessoas em vários comunidades de tecnologia, gosto de caminhar e estou aprendendo a tocar guitarra e contra-baixo nas horas vagas
